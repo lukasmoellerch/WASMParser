@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BinaryDataReader",
+        "repositoryURL": "https://github.com/lukasmoellerch/BinaryDataReader.git",
+        "state": {
+          "branch": null,
+          "revision": "0e883afd19f94241cb7882d9768bf103ea4f6f83",
+          "version": "0.0.3"
+        }
+      },
+      {
+        "package": "BinaryUtilities",
+        "repositoryURL": "https://github.com/lukasmoellerch/BinaryUtilities.git",
+        "state": {
+          "branch": null,
+          "revision": "f9aeda9d7b5dd130138116b5cb4f05b5ab94c7b3",
+          "version": "0.0.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
